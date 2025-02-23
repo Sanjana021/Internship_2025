@@ -9,9 +9,4 @@ print("end")
 
 
 
-#Create a program that asks the user for a password and keeps asking until the correct password "python123" is entered.
 
-n="python123"
-while True:
-    n=(str("generate a password:"))
-n=(str("enter a correct password:"))

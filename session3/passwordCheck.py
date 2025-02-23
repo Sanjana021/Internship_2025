@@ -2,8 +2,13 @@
 
 n="python123"
 a=str(input("generate a password:"))
-while n==True:
-    if password==n:
-        print("valid")
-    print("valid",n)
-a=str(input("generate a password:"))
+while a!=n:
+    a=str(input("generate a password:"))
+print(n)
+    
+    
+        
+    
+    
+
+
